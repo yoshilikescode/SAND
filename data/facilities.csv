@@ -1,0 +1,51 @@
+facility_id,facility_name,facility_type,zone,lead_time_days
+ETH001,Facility 1,Health Centre,SNNPR,21
+ETH002,Facility 2,Hospital,Oromia,37
+ETH003,Facility 3,Health Post,SNNPR,13
+ETH004,Facility 4,Health Centre,SNNPR,26
+ETH005,Facility 5,Health Post,Tigray,10
+ETH006,Facility 6,Health Post,Oromia,13
+ETH007,Facility 7,Health Centre,Amhara,27
+ETH008,Facility 8,Health Centre,Amhara,17
+ETH009,Facility 9,Health Centre,Tigray,15
+ETH010,Facility 10,Health Centre,Amhara,24
+ETH011,Facility 11,Health Centre,SNNPR,19
+ETH012,Facility 12,Hospital,Amhara,42
+ETH013,Facility 13,Health Centre,Tigray,17
+ETH014,Facility 14,Health Centre,Amhara,14
+ETH015,Facility 15,Health Post,SNNPR,11
+ETH016,Facility 16,Health Centre,Amhara,29
+ETH017,Facility 17,Health Post,Tigray,9
+ETH018,Facility 18,Health Centre,Tigray,17
+ETH019,Facility 19,Health Post,SNNPR,10
+ETH020,Facility 20,Health Post,SNNPR,11
+ETH021,Facility 21,Health Centre,Oromia,27
+ETH022,Facility 22,Health Centre,Oromia,18
+ETH023,Facility 23,Health Centre,Amhara,26
+ETH024,Facility 24,Health Post,Tigray,9
+ETH025,Facility 25,Health Centre,SNNPR,16
+ETH026,Facility 26,Health Post,Tigray,7
+ETH027,Facility 27,Health Centre,Tigray,24
+ETH028,Facility 28,Health Centre,Amhara,26
+ETH029,Facility 29,Health Centre,SNNPR,23
+ETH030,Facility 30,Health Post,Oromia,7
+ETH031,Facility 31,Health Centre,SNNPR,21
+ETH032,Facility 32,Health Centre,Oromia,26
+ETH033,Facility 33,Health Centre,SNNPR,22
+ETH034,Facility 34,Health Centre,Tigray,18
+ETH035,Facility 35,Health Post,Amhara,10
+ETH036,Facility 36,Health Post,Amhara,9
+ETH037,Facility 37,Hospital,Oromia,26
+ETH038,Facility 38,Health Post,Tigray,8
+ETH039,Facility 39,Health Post,Amhara,11
+ETH040,Facility 40,Health Centre,SNNPR,26
+ETH041,Facility 41,Health Centre,Amhara,20
+ETH042,Facility 42,Health Centre,Amhara,16
+ETH043,Facility 43,Health Post,Oromia,7
+ETH044,Facility 44,Health Centre,SNNPR,21
+ETH045,Facility 45,Health Post,Tigray,10
+ETH046,Facility 46,Health Post,Amhara,11
+ETH047,Facility 47,Health Centre,Oromia,20
+ETH048,Facility 48,Health Post,SNNPR,11
+ETH049,Facility 49,Health Post,Tigray,7
+ETH050,Facility 50,Health Post,Amhara,13
