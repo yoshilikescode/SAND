@@ -162,7 +162,7 @@ ents/assets/560795a7-0ce8-4af6-a526-2eb5620a315b" />
 
 **[ADD SCREENSHOT: individual chart build in Superset's chart editor]**
 ```
-![Chart builder](resources/at-risk-heat-chart-2026-07-23T12-20-15.819Z.jpg)
+![Chart builder]<img src = "resources/at-risk-heat-chart-2026-07-23T12-20-15.819Z.jpg" />
 ```
 
 **[ADD SCREENSHOT: SQL Lab running a live query against Neon]**
