@@ -93,7 +93,7 @@ stock.to_sql('stock', conn, index=False, if_exists='replace')
 
 ---
 
-## Project Structure
+## Basic Project Structure
 
 ```
 essential-medicine-stock-optimisation/
@@ -147,8 +147,14 @@ Three charts, built in Superset and connected live to the Neon database:
 | Facilities at risk | Table | Which specific facilities are currently below 30 days of stock |
 
 **[ADD SCREENSHOT: full dashboard overview]**
-```
-![Dashboard overview](screenshots/dashboard-overview.png)
+```<img width="1358" height="591" alt="image" src="https://github.com/user-attachments/assets/d4bcd2db-c813-42de-87e9-ad1cb37beec9" />
+
+<img width="1325" height="505" alt="image" src="https://github.com/user-attachments/assets/52be9e27-5c74-4ced-98af-82d22e6f257a" />
+
+<img width="1342" height="558" alt="image" src="https://github.com/user-attachments/assets/560795a7-0ce8-4af6-a526-2eb5620a315b" />
+
+<img width="958" height="409" alt="image" src="https://github.com/user-attachments/assets/c8bf863a-f033-4816-bf6c-fac0dff81b97" />
+
 ```
 
 **[ADD SCREENSHOT: individual chart build in Superset's chart editor]**
@@ -158,7 +164,9 @@ Three charts, built in Superset and connected live to the Neon database:
 
 **[ADD SCREENSHOT: SQL Lab running a live query against Neon]**
 ```
-![SQL Lab](screenshots/sql-lab.png)
+<img width="1362" height="601" alt="image" src="https://github.com/user-attachments/assets/39a01050-5186-48ed-b783-da09092eaa6e" />
+
+
 ```
 
 *(Drop your `.png` files into a `/screenshots` folder in the repo root — the markdown above will render them automatically once they're there.)*
@@ -185,7 +193,3 @@ Run the notebooks in order (Week 1 → Week 4). Week 3 requires your own free [N
 
 ---
 
-## Author
-
-**Eyosias Moges**
-*(add your LinkedIn / portfolio link here)*
