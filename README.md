@@ -146,36 +146,9 @@ Three tabs with various charts, built in Superset and connected live to the Neon
 | Days of stock over time | Line | Is the system-wide buffer improving or declining |
 | Facilities at risk | Table | Which specific facilities are currently below 30 days of stock |   
 
-and more:
+and more
 
-**[ADD SCREENSHOT: full dashboard overview]**
-```<img width="1358" height="591" alt="image" src="https://github.com/user-attachments/assets/d4bcd2db-c813-42de-87e9-ad1cb37beec9" />
-
-<img width="1325" height="505" alt="image" src="https://github.com/user-attachments/assets/52be9e27-5c74-4ced-98af-82d22e6f257a" />
-
-<img width="1342" height="558" alt="image" src="https://github.com/user-attachm<img width="1915" height="872" alt="Screenshot 2026-08-12 174700" src="https://github.com/user-attachments/assets/d4fcf237-1cc0-4fc9-b19b-1fdd041b7959" />
-ents/assets/560795a7-0ce8-4af6-a526-2eb5620a315b" />
-
-<img width="958" height="409" alt="image" src="https://github.com/user-attachments/assets/c8bf863a-f033-4816-bf6c-fac0dff81b97" />
-
-```
-
-**[ADD SCREENSHOT: individual chart build in Superset's chart editor]**
-```
-![Chart builder]<img src = "resources/at-risk-heat-chart-2026-07-23T12-20-15.819Z.jpg" />
-```
-
-**[ADD SCREENSHOT: SQL Lab running a live query against Neon]**
-```
-<img width="1362" height="601" alt="image" src="https://github.com/user-attachments/assets/39a01050-5186-48ed-b783-da09092eaa6e" />
-
-
-```
-
-*(Drop your `.png` files into a `/screenshots` folder in the repo root — the markdown above will render them automatically once they're there.)*
-
----
-
+*
 ## Running This Yourself
 
 ```bash
